@@ -1,0 +1,3395 @@
+.mediaViewInfo {
+  --web-view-name: confidant_home;
+  --web-view-id: confidant_home;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: confidant_home;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.confidant_home_Class {
+  position: relative;
+  width: 1900px;
+  height: 4729px;
+  background-color: rgba(238, 243, 244, 1);
+  overflow: hidden;
+  --web-view-name: confidant_home;
+  --web-view-id: confidant_home;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+.Gradient_k_Class {
+  opacity: 0.34;
+  fill: url(#Gradient_k);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Gradient_k {
+  overflow: visible;
+  position: absolute;
+  width: 1948.907px;
+  height: 1092.719px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Landing_cover_page_2_Class {
+  position: absolute;
+  width: 1955px;
+  height: 1071px;
+  left: -3px;
+  top: 22px;
+  overflow: visible;
+}
+.Landing_cover_page__Class {
+  opacity: 0.48;
+  mix-blend-mode: hard-light;
+  position: absolute;
+  width: 1949px;
+  height: 1093px;
+  left: -3px;
+  top: 0px;
+  overflow: visible;
+}
+.Header_Discount_Class {
+  position: absolute;
+  width: 1900px;
+  height: 56px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_796_Class {
+  fill: rgba(166, 119, 68, 1);
+}
+.Rectangle_796 {
+  position: absolute;
+  overflow: visible;
+  width: 1900px;
+  height: 56px;
+  left: 0px;
+  top: 0px;
+}
+.Use_coupon_code_LEARN15_for_15_Class {
+  left: 637px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 627px;
+  height: 20px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(247, 245, 230, 1);
+}
+.Logo_Header_Class {
+  position: absolute;
+  width: 368.492px;
+  height: 96.891px;
+  left: 765.307px;
+  top: 99.002px;
+  overflow: visible;
+}
+.Path_3070_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3070 {
+  overflow: visible;
+  position: absolute;
+  width: 357.115px;
+  height: 85.513px;
+  left: 0px;
+  top: 11.377px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3071_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3071 {
+  overflow: visible;
+  position: absolute;
+  width: 58.075px;
+  height: 58.075px;
+  left: 310.417px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3072_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3072 {
+  overflow: visible;
+  position: absolute;
+  width: 44.908px;
+  height: 51.897px;
+  left: 29.874px;
+  top: 28.768px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3073_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3073 {
+  overflow: visible;
+  position: absolute;
+  width: 34.393px;
+  height: 34.324px;
+  left: 79.583px;
+  top: 46.204px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3074_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3074 {
+  overflow: visible;
+  position: absolute;
+  width: 32.273px;
+  height: 34.324px;
+  left: 118.763px;
+  top: 46.204px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3075_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3075 {
+  overflow: visible;
+  position: absolute;
+  width: 8.274px;
+  height: 42.119px;
+  left: 180.574px;
+  top: 37.793px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3076_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3076 {
+  overflow: visible;
+  position: absolute;
+  width: 35.214px;
+  height: 51.897px;
+  left: 192.608px;
+  top: 28.768px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3077_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3077 {
+  overflow: visible;
+  position: absolute;
+  width: 23.242px;
+  height: 51.897px;
+  left: 156.506px;
+  top: 28.014px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3078_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3078 {
+  overflow: visible;
+  position: absolute;
+  width: 34.598px;
+  height: 33.982px;
+  left: 231.583px;
+  top: 46.476px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3079_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3079 {
+  overflow: visible;
+  position: absolute;
+  width: 32.273px;
+  height: 34.324px;
+  left: 272.609px;
+  top: 46.204px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3080_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3080 {
+  overflow: visible;
+  position: absolute;
+  width: 21.607px;
+  height: 51.896px;
+  left: 307.001px;
+  top: 28.563px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Navigation_Class {
+  position: absolute;
+  width: 1685px;
+  height: 130px;
+  left: 118px;
+  top: 130px;
+  overflow: visible;
+}
+.About_Class {
+  left: 0px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.Consultation_Class {
+  left: 145px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 176px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.Enrollment_Class {
+  left: 1397px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 154px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.Login_Class {
+  left: 1615px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 71px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.Arts_Class {
+  left: 641px;
+  top: 107px;
+  position: absolute;
+  overflow: visible;
+  width: 41px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.Commerce_Class {
+  left: 958px;
+  top: 107px;
+  position: absolute;
+  overflow: visible;
+  width: 94px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.Science_Class {
+  left: 796px;
+  top: 107px;
+  position: absolute;
+  overflow: visible;
+  width: 73px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.Landing_page_Motto_Class {
+  left: 211px;
+  top: 411px;
+  position: absolute;
+  overflow: visible;
+  width: 796px;
+  height: 140px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  color: rgba(53, 78, 87, 1);
+}
+.Landing_page_Quote_Class {
+  left: 211px;
+  top: 551px;
+  position: absolute;
+  overflow: visible;
+  width: 659px;
+  height: 109px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  color: rgba(53, 78, 87, 1);
+}
+.Landing_page_CTA__Class {
+  position: absolute;
+  width: 346px;
+  height: 71px;
+  left: 211px;
+  top: 735px;
+  overflow: visible;
+}
+.Rectangle_809_Class {
+  fill: transparent;
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_809 {
+  position: absolute;
+  overflow: visible;
+  width: 346px;
+  height: 71px;
+  left: 0px;
+  top: 0px;
+}
+.Search_for_Mentors_Class {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 295px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  color: rgba(46, 46, 34, 1);
+}
+.Mentors_Help_You_Get_Started_Class {
+  position: absolute;
+  width: 1945px;
+  height: 196px;
+  left: -22px;
+  top: 1093px;
+  overflow: visible;
+}
+.Rectangle_250_Class {
+  fill: transparent;
+  stroke: rgba(84, 118, 101, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_250 {
+  position: absolute;
+  overflow: visible;
+  width: 1945px;
+  height: 196px;
+  left: 0px;
+  top: 0px;
+}
+.Mentors_Help_You_Get_Started_bh_Class {
+  left: 703px;
+  top: 68px;
+  position: absolute;
+  overflow: visible;
+  width: 576px;
+  height: 47px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  color: rgba(53, 78, 87, 1);
+}
+.Explore_our_vast_array_of_Ment_Class {
+  left: 631px;
+  top: 115px;
+  position: absolute;
+  overflow: visible;
+  width: 717px;
+  height: 64px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(53, 78, 87, 1);
+}
+.Most_Popular_Mentors_Class {
+  left: 192px;
+  top: 1424px;
+  position: absolute;
+  overflow: visible;
+  width: 321px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  color: rgba(46, 46, 34, 1);
+}
+.Anna_Staten_Class {
+  position: absolute;
+  width: 349px;
+  height: 642px;
+  left: 192px;
+  top: 1484px;
+  overflow: visible;
+}
+.Rectangle_178_Class {
+  position: absolute;
+  width: 349px;
+  height: 481px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Anna_Staten_bm_Class {
+  left: 0px;
+  top: 500px;
+  position: absolute;
+  overflow: visible;
+  width: 107px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  color: rgba(46, 46, 34, 1);
+}
+.Makeup_Artist_Class {
+  left: 0px;
+  top: 524px;
+  position: absolute;
+  overflow: visible;
+  width: 98px;
+  white-space: nowrap;
+  line-height: 21px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(46, 46, 34, 1);
+}
+.ID2499_per_course_Class {
+  left: 1px;
+  top: 557px;
+  position: absolute;
+  overflow: visible;
+  width: 132px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(46, 46, 34, 1);
+}
+.Enroll_CTA_Class {
+  position: absolute;
+  width: 349px;
+  height: 49px;
+  left: 0px;
+  top: 593px;
+  overflow: visible;
+}
+.Rectangle_756_Class {
+  fill: transparent;
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_756 {
+  position: absolute;
+  overflow: visible;
+  width: 349px;
+  height: 49px;
+  left: 0px;
+  top: 0px;
+}
+.Enroll_Class {
+  left: 147px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 56px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  color: rgba(46, 46, 34, 1);
+}
+.Vitili_Hanson_Class {
+  position: absolute;
+  width: 349px;
+  height: 642px;
+  left: 583px;
+  top: 1484px;
+  overflow: visible;
+}
+.Rectangle_178_bt_Class {
+  position: absolute;
+  width: 349px;
+  height: 481px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Vitili_Hanson_bu_Class {
+  left: 0px;
+  top: 500px;
+  position: absolute;
+  overflow: visible;
+  width: 111px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  color: rgba(46, 46, 34, 1);
+}
+.Wildlife_Photography_Class {
+  left: 0px;
+  top: 524px;
+  position: absolute;
+  overflow: visible;
+  width: 146px;
+  white-space: nowrap;
+  line-height: 21px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(46, 46, 34, 1);
+}
+.ID5999_Class {
+  left: 1px;
+  top: 557px;
+  position: absolute;
+  overflow: visible;
+  width: 52px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(46, 46, 34, 1);
+}
+.Enroll_CTA_bx_Class {
+  position: absolute;
+  width: 349px;
+  height: 49px;
+  left: 0px;
+  top: 593px;
+  overflow: visible;
+}
+.Rectangle_756_by_Class {
+  fill: transparent;
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_756_by {
+  position: absolute;
+  overflow: visible;
+  width: 349px;
+  height: 49px;
+  left: 0px;
+  top: 0px;
+}
+.Enroll_bz_Class {
+  left: 146px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  color: rgba(46, 46, 34, 1);
+}
+.New_Class {
+  position: absolute;
+  width: 69px;
+  height: 39px;
+  left: 24px;
+  top: 17px;
+  overflow: visible;
+}
+.Rectangle_797_Class {
+  fill: rgba(247, 247, 247, 1);
+}
+.Rectangle_797 {
+  position: absolute;
+  overflow: visible;
+  width: 69px;
+  height: 39px;
+  left: 0px;
+  top: 0px;
+}
+.New_b_Class {
+  left: 15px;
+  top: 13px;
+  position: absolute;
+  overflow: visible;
+  width: 37px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(53, 78, 87, 1);
+}
+.Ezcema_Davie_Class {
+  position: absolute;
+  width: 349px;
+  height: 642px;
+  left: 972px;
+  top: 1484px;
+  overflow: visible;
+}
+.annie-spratt-GJJo0gb7bfY-unspl_Class {
+  position: absolute;
+  width: 349px;
+  height: 481px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Ezcema_Davie_b_Class {
+  left: 0px;
+  top: 500px;
+  position: absolute;
+  overflow: visible;
+  width: 122px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  color: rgba(46, 46, 34, 1);
+}
+.Music_Production_Class {
+  left: 0px;
+  top: 524px;
+  position: absolute;
+  overflow: visible;
+  width: 122px;
+  white-space: nowrap;
+  line-height: 21px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(46, 46, 34, 1);
+}
+.ID2499_Class {
+  left: 1px;
+  top: 557px;
+  position: absolute;
+  overflow: visible;
+  width: 52px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(46, 46, 34, 1);
+}
+.Enroll_CTA_b_Class {
+  position: absolute;
+  width: 349px;
+  height: 49px;
+  left: 0px;
+  top: 593px;
+  overflow: visible;
+}
+.Rectangle_756_b_Class {
+  fill: transparent;
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_756_b {
+  position: absolute;
+  overflow: visible;
+  width: 349px;
+  height: 49px;
+  left: 0px;
+  top: 0px;
+}
+.Enroll_ca_Class {
+  left: 146px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  color: rgba(46, 46, 34, 1);
+}
+.Summer_Smith_Class {
+  position: absolute;
+  width: 349px;
+  height: 642px;
+  left: 1363px;
+  top: 1484px;
+  overflow: visible;
+}
+.Rectangle_178_cc_Class {
+  position: absolute;
+  width: 349px;
+  height: 481px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Summer_Smith_cd_Class {
+  left: 0px;
+  top: 500px;
+  position: absolute;
+  overflow: visible;
+  width: 128px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  color: rgba(46, 46, 34, 1);
+}
+.IOS_app_development_Class {
+  left: 0px;
+  top: 524px;
+  position: absolute;
+  overflow: visible;
+  width: 154px;
+  white-space: nowrap;
+  line-height: 21px;
+  margin-top: -2.5px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(46, 46, 34, 1);
+}
+.ID2499_cf_Class {
+  left: 61px;
+  top: 557px;
+  position: absolute;
+  overflow: visible;
+  width: 52px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(46, 46, 34, 1);
+  text-decoration: line-through;
+}
+.ID1899_Class {
+  left: 0px;
+  top: 560px;
+  position: absolute;
+  overflow: visible;
+  width: 49px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(166, 119, 68, 1);
+}
+.Enroll_CTA_ch_Class {
+  position: absolute;
+  width: 349px;
+  height: 49px;
+  left: 0px;
+  top: 593px;
+  overflow: visible;
+}
+.Rectangle_756_ci_Class {
+  fill: transparent;
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_756_ci {
+  position: absolute;
+  overflow: visible;
+  width: 349px;
+  height: 49px;
+  left: 0px;
+  top: 0px;
+}
+.Enroll_cj_Class {
+  left: 146px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  color: rgba(46, 46, 34, 1);
+}
+.ID15_off_Class {
+  position: absolute;
+  width: 82px;
+  height: 39px;
+  left: 18px;
+  top: 17px;
+  overflow: visible;
+}
+.Rectangle_797_cl_Class {
+  fill: rgba(247, 247, 247, 1);
+}
+.Rectangle_797_cl {
+  position: absolute;
+  overflow: visible;
+  width: 82px;
+  height: 39px;
+  left: 0px;
+  top: 0px;
+}
+.ID15_off_cm_Class {
+  left: 15px;
+  top: 13px;
+  position: absolute;
+  overflow: visible;
+  width: 53px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: rgba(166, 119, 68, 1);
+}
+.CTA_panel_1_Class {
+  position: absolute;
+  width: 1902px;
+  height: 950px;
+  left: -1px;
+  top: 2312px;
+  overflow: visible;
+}
+.Rectangle_810_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_810 {
+  position: absolute;
+  overflow: visible;
+  width: 951px;
+  height: 950px;
+  left: 951px;
+  top: 0px;
+}
+.Rectangle_759_Class {
+  fill: rgba(84, 118, 101, 1);
+}
+.Rectangle_759 {
+  position: absolute;
+  overflow: visible;
+  width: 951px;
+  height: 950px;
+  left: 0px;
+  top: 0px;
+}
+.Our_Mentors_will_guide_you_thr_Class {
+  left: 190px;
+  top: 275px;
+  position: absolute;
+  overflow: visible;
+  width: 647px;
+  height: 151px;
+  line-height: 55px;
+  margin-top: -7.5px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: capitalize;
+}
+.CTA_1_Filler_Class {
+  left: 193px;
+  top: 459px;
+  position: absolute;
+  overflow: visible;
+  width: 600px;
+  height: 132px;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(238, 242, 244, 1);
+}
+._CTA_1_Learn_more_Class {
+  position: absolute;
+  width: 245px;
+  height: 56px;
+  left: 193px;
+  top: 629px;
+  overflow: visible;
+}
+.Rectangle_760_Class {
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_760 {
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  height: 56px;
+  left: 0px;
+  top: 0px;
+}
+.Learn_more_Class {
+  left: 61px;
+  top: 16px;
+  position: absolute;
+  overflow: visible;
+  width: 124px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(247, 245, 230, 1);
+}
+.Rectangle_807_Class {
+  position: absolute;
+  width: 741.727px;
+  height: 741.727px;
+  left: 1054.499px;
+  top: 103.923px;
+  overflow: visible;
+}
+.CTA_panel_2_Class {
+  position: absolute;
+  width: 1906px;
+  height: 950px;
+  left: -1px;
+  top: 3262px;
+  overflow: visible;
+}
+.Rectangle_811_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Rectangle_811 {
+  position: absolute;
+  overflow: visible;
+  width: 951px;
+  height: 950px;
+  left: 0px;
+  top: 0px;
+}
+.Rectangle_188_Class {
+  fill: rgba(198, 185, 182, 1);
+}
+.Rectangle_188 {
+  position: absolute;
+  overflow: visible;
+  width: 955px;
+  height: 950px;
+  left: 951px;
+  top: 0px;
+}
+.Do_not_worry_about_your_obstac_Class {
+  left: 1103px;
+  top: 246px;
+  position: absolute;
+  overflow: visible;
+  width: 682px;
+  height: 169px;
+  line-height: 60px;
+  margin-top: -10px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(86, 66, 61, 1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+  left: 1103px;
+  top: 475px;
+  position: absolute;
+  overflow: visible;
+  width: 618px;
+  height: 94px;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(46, 46, 34, 1);
+}
+.Rectangle_808_Class {
+  position: absolute;
+  width: 717.657px;
+  height: 717.657px;
+  left: 115.904px;
+  top: 116.502px;
+  overflow: visible;
+}
+._CTA_2_Learn_more_Class {
+  position: absolute;
+  width: 245px;
+  height: 56px;
+  left: 1103px;
+  top: 599px;
+  overflow: visible;
+}
+.Rectangle_760_c_Class {
+  fill: transparent;
+  stroke: rgba(86, 66, 61, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_760_c {
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  height: 56px;
+  left: 0px;
+  top: 0px;
+}
+.Learn_more_c_Class {
+  left: 61px;
+  top: 16px;
+  position: absolute;
+  overflow: visible;
+  width: 124px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(86, 66, 61, 1);
+}
+.CTA_Offers_Class {
+  position: absolute;
+  width: 1900px;
+  height: 311px;
+  left: 0px;
+  top: 4213px;
+  overflow: visible;
+}
+.Rectangle_803_Class {
+  fill: rgba(238, 242, 244, 1);
+}
+.Rectangle_803 {
+  position: absolute;
+  overflow: visible;
+  width: 1900px;
+  height: 311px;
+  left: 0px;
+  top: 0px;
+}
+.Were_offering_new_ways_to_lear_Class {
+  left: 411px;
+  top: 142px;
+  position: absolute;
+  overflow: visible;
+  width: 204px;
+  height: 56px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(53, 78, 87, 1);
+}
+.Offers_CTA_Class_locator_Class {
+  left: 465px;
+  top: 214px;
+  position: absolute;
+  overflow: visible;
+  width: 91px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(53, 78, 87, 1);
+  text-decoration: underline;
+}
+.Offers_CTA_Learn_more_2_Class {
+  left: 907px;
+  top: 214px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(53, 78, 87, 1);
+  text-decoration: underline;
+}
+.Offers_CTA_Learn_more_1_Class {
+  left: 1346px;
+  top: 214px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(53, 78, 87, 1);
+  text-decoration: underline;
+}
+.Learn_online_pickup_in_materia_Class {
+  left: 847px;
+  top: 142px;
+  position: absolute;
+  overflow: visible;
+  width: 204px;
+  height: 56px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(53, 78, 87, 1);
+}
+.Contact_us_for_personal_one-on_Class {
+  left: 1286px;
+  top: 142px;
+  position: absolute;
+  overflow: hidden;
+  width: 204px;
+  height: 56px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(53, 78, 87, 1);
+}
+.ID001-shopping-cart_Class {
+  fill: rgba(198, 185, 182, 1);
+}
+.ID001-shopping-cart {
+  overflow: visible;
+  position: absolute;
+  width: 45.816px;
+  height: 41.992px;
+  left: 926.179px;
+  top: 72.435px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Icon_feather-phone-call_Class {
+  fill: transparent;
+  stroke: rgba(198, 185, 182, 1);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Icon_feather-phone-call {
+  overflow: visible;
+  position: absolute;
+  width: 45.883px;
+  height: 45.965px;
+  left: 1365.938px;
+  top: 71.74px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3066_Class {
+  fill: rgba(198, 185, 182, 1);
+  stroke: rgba(198, 185, 182, 1);
+  stroke-width: 0.5px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_3066 {
+  overflow: visible;
+  position: absolute;
+  width: 37.83px;
+  height: 37.83px;
+  left: 494.062px;
+  top: 73.824px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.CTA_Susbcribe_Class {
+  position: absolute;
+  width: 1900px;
+  height: 205px;
+  left: 0px;
+  top: 4524px;
+  overflow: visible;
+}
+.Rectangle_269_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_269 {
+  position: absolute;
+  overflow: visible;
+  width: 1900px;
+  height: 205px;
+  left: 0px;
+  top: 0px;
+}
+.Become_a_Confidant_Mentor_Class {
+  left: 204px;
+  top: 61px;
+  position: absolute;
+  overflow: visible;
+  width: 373px;
+  height: 107px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  color: rgba(53, 78, 87, 1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_dj_Class {
+  left: 608px;
+  top: 82px;
+  position: absolute;
+  overflow: visible;
+  width: 423px;
+  height: 43px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(53, 78, 87, 1);
+}
+.Rectangle_302_Class {
+  fill: rgba(166, 119, 68, 1);
+  stroke: rgba(149, 106, 83, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_302 {
+  position: absolute;
+  overflow: visible;
+  width: 172px;
+  height: 56px;
+  left: 1528px;
+  top: 79px;
+}
+.Subscribe_Class {
+  left: 1571px;
+  top: 99px;
+  position: absolute;
+  overflow: visible;
+  width: 86px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 19px;
+  color: rgba(255, 255, 255, 1);
+}
+.Rectangle_303_Class {
+  fill: transparent;
+  stroke: rgba(149, 106, 83, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_303 {
+  position: absolute;
+  overflow: visible;
+  width: 554px;
+  height: 56px;
+  left: 1146px;
+  top: 79px;
+}
+.Line_3_Class {
+  fill: transparent;
+  stroke: rgba(215, 204, 221, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_3 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 107.377px;
+  left: 579.397px;
+  top: 49.325px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.mediaViewInfo {
+  --web-view-name: confidant_footer;
+  --web-view-id: confidant_footer;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: confidant_footer;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.confidant_footer_Class {
+  position: relative;
+  width: 1900px;
+  height: 797px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: confidant_footer;
+  --web-view-id: confidant_footer;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+.Rectangle_268_Class {
+  fill: rgba(53, 78, 87, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_268 {
+  position: absolute;
+  overflow: visible;
+  width: 1901px;
+  height: 801px;
+  left: 0px;
+  top: 0px;
+}
+.Helping_You_Find_Your_Path_To__Class {
+  left: 196px;
+  top: 188px;
+  position: absolute;
+  overflow: visible;
+  width: 577px;
+  height: 56px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 1);
+}
+.About_Class {
+  left: 1258px;
+  top: 160px;
+  position: absolute;
+  overflow: visible;
+  width: 77px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+.Footer_Enroll_Class {
+  left: 979px;
+  top: 160px;
+  position: absolute;
+  overflow: visible;
+  width: 90px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+.Lorem_ipsum_al_Class {
+  left: 978px;
+  top: 217px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.About_Us_Class {
+  left: 1258px;
+  top: 217px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Dolar_at__Class {
+  left: 1551px;
+  top: 217px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Dolar_at__r_Class {
+  left: 978px;
+  top: 257px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Sooth_Stories_Blog_Class {
+  left: 1258px;
+  top: 257px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Lorem_at_al_Class {
+  left: 1551px;
+  top: 257px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Veraotio_Class {
+  left: 978px;
+  top: 298px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Contact_Us_Class {
+  left: 1258px;
+  top: 298px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Veraotio_w_Class {
+  left: 1551px;
+  top: 298px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Chauloe_Class {
+  left: 978px;
+  top: 339px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Learn_More_Class {
+  left: 1258px;
+  top: 339px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 24px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Stores_Class {
+  left: 1258px;
+  top: 375px;
+  position: absolute;
+  overflow: visible;
+  width: 196px;
+  height: 24px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.Privacy_Policy_Class {
+  left: 196px;
+  top: 643px;
+  position: absolute;
+  overflow: visible;
+  width: 212px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-decoration: underline;
+}
+.CONFIDANT_all_rights_reserved_Class {
+  left: 196px;
+  top: 595px;
+  position: absolute;
+  overflow: visible;
+  width: 393px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+.Terms_of_Use_Class {
+  left: 453px;
+  top: 643px;
+  position: absolute;
+  overflow: visible;
+  width: 140px;
+  height: 56px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-decoration: underline;
+}
+.Contact_Us__Class {
+  left: 693px;
+  top: 643px;
+  position: absolute;
+  overflow: visible;
+  width: 212px;
+  height: 56px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-decoration: underline;
+}
+.More_Class {
+  left: 1551px;
+  top: 160px;
+  position: absolute;
+  overflow: visible;
+  width: 100px;
+  height: 28px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  text-transform: uppercase;
+}
+.Footer_Subscribe_CTA_Class {
+  position: absolute;
+  width: 623px;
+  height: 68px;
+  left: 193px;
+  top: 319px;
+  overflow: visible;
+}
+.Your_email_Class {
+  left: 30px;
+  top: 21px;
+  position: absolute;
+  overflow: visible;
+  width: 122px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  color: rgba(255, 255, 255, 1);
+}
+.Subscribe_Class {
+  left: 476px;
+  top: 21px;
+  position: absolute;
+  overflow: visible;
+  width: 101px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  color: rgba(255, 255, 255, 1);
+}
+.Rectangle_312_Class {
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_312 {
+  position: absolute;
+  overflow: visible;
+  width: 623px;
+  height: 68px;
+  left: 0px;
+  top: 0px;
+}
+.Rectangle_313_Class {
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_313 {
+  position: absolute;
+  overflow: visible;
+  width: 198px;
+  height: 68px;
+  left: 425px;
+  top: 0px;
+}
+.Line_4_Class {
+  fill: transparent;
+  stroke: rgba(247, 245, 230, 1);
+  stroke-width: 0.5px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_4 {
+  overflow: visible;
+  position: absolute;
+  width: 1516.76px;
+  height: 0.5px;
+  left: 193.943px;
+  top: 536.803px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Social_media_links_Class {
+  position: absolute;
+  width: 451.311px;
+  height: 58.938px;
+  left: 1258.698px;
+  top: 612.063px;
+  overflow: visible;
+}
+.Icon_simple-facebook_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Icon_simple-facebook {
+  overflow: visible;
+  position: absolute;
+  width: 59.298px;
+  height: 58.938px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Icon_feather-instagram_Class {
+  position: absolute;
+  width: 49.419px;
+  height: 49.419px;
+  left: 137.948px;
+  top: 4.76px;
+  overflow: visible;
+}
+.Path_2875_Class {
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 4px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_2875 {
+  overflow: visible;
+  position: absolute;
+  width: 53.419px;
+  height: 53.418px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_2876_Class {
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 4px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_2876 {
+  overflow: visible;
+  position: absolute;
+  width: 23.784px;
+  height: 23.784px;
+  left: 14.932px;
+  top: 14.718px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_2877_Class {
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 7px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_2877 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 38.2993, 11.1192)
+    rotate(16deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+.Icon_ionic-logo-twitter_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Icon_ionic-logo-twitter {
+  overflow: visible;
+  position: absolute;
+  width: 54.658px;
+  height: 44.477px;
+  left: 266.996px;
+  top: 7.231px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Icon_metro-youtube_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Icon_metro-youtube {
+  overflow: visible;
+  position: absolute;
+  width: 50.816px;
+  height: 50.816px;
+  left: 400.495px;
+  top: 4.06px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Logo_Footer_Class {
+  position: absolute;
+  width: 368.492px;
+  height: 96.891px;
+  left: 193.307px;
+  top: 74.002px;
+  overflow: visible;
+}
+.Path_3070_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3070 {
+  overflow: visible;
+  position: absolute;
+  width: 357.115px;
+  height: 85.514px;
+  left: 0px;
+  top: 11.377px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3071_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3071 {
+  overflow: visible;
+  position: absolute;
+  width: 58.075px;
+  height: 58.075px;
+  left: 310.417px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3072_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3072 {
+  overflow: visible;
+  position: absolute;
+  width: 44.908px;
+  height: 51.897px;
+  left: 29.874px;
+  top: 28.768px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3073_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3073 {
+  overflow: visible;
+  position: absolute;
+  width: 34.393px;
+  height: 34.324px;
+  left: 79.584px;
+  top: 46.204px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3074_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3074 {
+  overflow: visible;
+  position: absolute;
+  width: 32.273px;
+  height: 34.324px;
+  left: 118.763px;
+  top: 46.204px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3075_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3075 {
+  overflow: visible;
+  position: absolute;
+  width: 8.274px;
+  height: 42.119px;
+  left: 180.575px;
+  top: 37.793px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3076_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3076 {
+  overflow: visible;
+  position: absolute;
+  width: 35.214px;
+  height: 51.897px;
+  left: 192.609px;
+  top: 28.768px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3077_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3077 {
+  overflow: visible;
+  position: absolute;
+  width: 23.242px;
+  height: 51.897px;
+  left: 156.506px;
+  top: 28.014px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3078_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3078 {
+  overflow: visible;
+  position: absolute;
+  width: 34.598px;
+  height: 33.982px;
+  left: 231.584px;
+  top: 46.476px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3079_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3079 {
+  overflow: visible;
+  position: absolute;
+  width: 32.273px;
+  height: 34.324px;
+  left: 272.609px;
+  top: 46.204px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3080_Class {
+  fill: rgba(255, 255, 255, 1);
+}
+.Path_3080 {
+  overflow: visible;
+  position: absolute;
+  width: 21.607px;
+  height: 51.896px;
+  left: 307.001px;
+  top: 28.563px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.mediaViewInfo {
+  --web-view-name: confidant_header;
+  --web-view-id: confidant_header;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: confidant_header;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.confidant_header_Class {
+  position: relative;
+  width: 1900px;
+  height: 221px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: confidant_header;
+  --web-view-id: confidant_header;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+.Rectangle_814_Class {
+  fill: rgba(255, 240, 225, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_814 {
+  position: absolute;
+  overflow: visible;
+  width: 1900px;
+  height: 221px;
+  left: 0px;
+  top: 0px;
+}
+.Landing_page_Logo_Header_Class {
+  z-index: 3;
+  position: absolute;
+  width: 306.148px;
+  height: 80.498px;
+  left: 797px;
+  top: 39.002px;
+  overflow: visible;
+}
+.Landing_page_Logo_Header_Class:hover{cursor: pointer;}
+
+.Path_3070_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3070 {
+  overflow: visible;
+  position: absolute;
+  width: 296.695px;
+  height: 71.045px;
+  left: 0px;
+  top: 9.453px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3071_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3071 {
+  overflow: visible;
+  position: absolute;
+  width: 48.249px;
+  height: 48.249px;
+  left: 257.898px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3072_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3072 {
+  overflow: visible;
+  position: absolute;
+  width: 37.31px;
+  height: 43.117px;
+  left: 24.82px;
+  top: 23.9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3073_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3073 {
+  overflow: visible;
+  position: absolute;
+  width: 28.574px;
+  height: 28.517px;
+  left: 66.119px;
+  top: 38.387px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3074_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3074 {
+  overflow: visible;
+  position: absolute;
+  width: 26.813px;
+  height: 28.517px;
+  left: 98.669px;
+  top: 38.387px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3075_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3075 {
+  overflow: visible;
+  position: absolute;
+  width: 6.874px;
+  height: 34.993px;
+  left: 150.023px;
+  top: 31.399px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3076_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3076 {
+  overflow: visible;
+  position: absolute;
+  width: 29.256px;
+  height: 43.117px;
+  left: 160.021px;
+  top: 23.9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3077_Class {
+  fill: rgba(45, 45, 45, 1);
+}
+.Path_3077 {
+  overflow: visible;
+  position: absolute;
+  width: 19.31px;
+  height: 43.117px;
+  left: 130.027px;
+  top: 23.274px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3078_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3078 {
+  overflow: visible;
+  position: absolute;
+  width: 28.745px;
+  height: 28.233px;
+  left: 192.402px;
+  top: 38.613px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3079_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3079 {
+  overflow: visible;
+  position: absolute;
+  width: 26.813px;
+  height: 28.517px;
+  left: 226.487px;
+  top: 38.387px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Path_3080_Class {
+  fill: rgba(66, 139, 101, 1);
+}
+.Path_3080 {
+  overflow: visible;
+  position: absolute;
+  width: 17.951px;
+  height: 43.116px;
+  left: 255.061px;
+  top: 23.73px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Landing_page_Navigation_Class {
+  position: absolute;
+  width: 1685px;
+  height: 129px;
+  left: 118px;
+  top: 55px;
+  overflow: visible;
+}
+.About_Class {
+  left: 0px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 81px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.Consultation_Class {
+  left: 145px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 176px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.Enrollment_Class {
+  left: 1397px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 154px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.Login_Class {
+  left: 1615px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 71px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.Arts_Class {
+  left: 615px;
+  top: 105px;
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.Commerce_Class {
+  left: 977px;
+  top: 106px;
+  position: absolute;
+  overflow: visible;
+  width: 121px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 23px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.Science_Class {
+  left: 787px;
+  top: 105px;
+  position: absolute;
+  overflow: visible;
+  width: 93px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.mediaViewInfo {
+  --web-view-name: confidant_art;
+  --web-view-id: confidant_art;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: confidant_art;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.confidant_art_Class {
+  position: relative;
+  width: 1900px;
+  height: 2020px;
+  background-color: rgba(238, 243, 244, 1);
+  overflow: hidden;
+  --web-view-name: confidant_art;
+  --web-view-id: confidant_art;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+.Component_57__1_Class {
+  position: relative;
+  width: 1398px;
+  height: 262px;
+  left: 251px;
+  top: 418px;
+  overflow: visible;
+}
+.Rectangle_805_Class {
+  fill: rgba(250, 250, 250, 1);
+}
+.Rectangle_805 {
+  position: absolute;
+  overflow: visible;
+  width: 1398px;
+  height: 262px;
+  left: 0px;
+  top: 0px;
+}
+.The_quick_brown_fox_jumps_over_Class {
+  left: 737px;
+  top: 82px;
+  position: absolute;
+  overflow: visible;
+  width: 545px;
+  height: 98px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(53, 78, 87, 1);
+}
+.Category_Arts_Class {
+  left: 251px;
+  top: 179px;
+  position: absolute;
+  overflow: visible;
+  width: 389px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.Dropdown_sort_Class {
+  position: absolute;
+  width: 247px;
+  height: 40px;
+  left: 1402px;
+  top: 82px;
+  overflow: visible;
+}
+.Rectangle_187_Class {
+  fill: rgba(228, 236, 239, 1);
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_187 {
+  position: absolute;
+  overflow: visible;
+  width: 247px;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+}
+.Icon_ionic-ios-arrow-down_Class {
+  fill: rgba(84, 118, 101, 1);
+}
+.Icon_ionic-ios-arrow-down {
+  overflow: visible;
+  position: absolute;
+  width: 10.99px;
+  height: 6.284px;
+  left: 223.062px;
+  top: 16.467px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Sort_Class {
+  left: 1415px;
+  top: 92px;
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.mediaViewInfo {
+  --web-view-name: confidant_commerce;
+  --web-view-id: confidant_commerce;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: confidant_commerce;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.confidant_commerce_Class {
+  position: relative;
+  width: 1900px;
+  height: 2020px;
+  background-color: rgba(238, 243, 244, 1);
+  overflow: hidden;
+  --web-view-name: confidant_commerce;
+  --web-view-id: confidant_commerce;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+.Component_57__2_Class {
+  position: relative;
+  width: 1398px;
+  height: 262px;
+  left: 251px;
+  top: 418px;
+  overflow: visible;
+}
+.Rectangle_805_Class {
+  fill: rgba(250, 250, 250, 1);
+}
+.Rectangle_805 {
+  position: absolute;
+  overflow: visible;
+  width: 1398px;
+  height: 262px;
+  left: 0px;
+  top: 0px;
+}
+.The_quick_brown_fox_jumps_over_Class {
+  left: 737px;
+  top: 82px;
+  position: absolute;
+  overflow: visible;
+  width: 545px;
+  height: 98px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(53, 78, 87, 1);
+}
+.Category_Commerce_Class {
+  left: 251px;
+  top: 179px;
+  position: absolute;
+  overflow: visible;
+  width: 570px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.Dropdown_sort_Class {
+  position: absolute;
+  width: 247px;
+  height: 40px;
+  left: 1402px;
+  top: 82px;
+  overflow: visible;
+}
+.Rectangle_187_Class {
+  fill: rgba(228, 236, 239, 1);
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_187 {
+  position: absolute;
+  overflow: visible;
+  width: 247px;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+}
+.Icon_ionic-ios-arrow-down_Class {
+  fill: rgba(84, 118, 101, 1);
+}
+.Icon_ionic-ios-arrow-down {
+  overflow: visible;
+  position: absolute;
+  width: 10.991px;
+  height: 6.284px;
+  left: 223.062px;
+  top: 16.467px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Sort_Class {
+  left: 1415px;
+  top: 92px;
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.mediaViewInfo {
+  --web-view-name: confidant_science;
+  --web-view-id: confidant_science;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: confidant_science;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.confidant_science_Class {
+  position: relative;
+  width: 1900px;
+  height: 2020px;
+  background-color: rgba(238, 243, 244, 1);
+  overflow: hidden;
+  --web-view-name: confidant_science;
+  --web-view-id: confidant_science;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+.Component_57__3_Class {
+  position: relative;
+  width: 1398px;
+  height: 262px;
+  left: 251px;
+  top: 418px;
+  overflow: visible;
+}
+.Rectangle_805_Class {
+  fill: rgba(250, 250, 250, 1);
+}
+.Rectangle_805 {
+  position: absolute;
+  overflow: visible;
+  width: 1398px;
+  height: 262px;
+  left: 0px;
+  top: 0px;
+}
+.The_quick_brown_fox_jumps_over_Class {
+  left: 737px;
+  top: 82px;
+  position: absolute;
+  overflow: visible;
+  width: 545px;
+  height: 98px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(53, 78, 87, 1);
+}
+.Category_Science_Class {
+  left: 251px;
+  top: 179px;
+  position: absolute;
+  overflow: visible;
+  width: 490px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 55px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.Dropdown_sort_Class {
+  position: absolute;
+  width: 247px;
+  height: 40px;
+  left: 1402px;
+  top: 82px;
+  overflow: visible;
+}
+.Rectangle_187_Class {
+  fill: rgba(228, 236, 239, 1);
+  stroke: rgba(53, 78, 87, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_187 {
+  position: absolute;
+  overflow: visible;
+  width: 247px;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+}
+.Icon_ionic-ios-arrow-down_Class {
+  fill: rgba(84, 118, 101, 1);
+}
+.Icon_ionic-ios-arrow-down {
+  overflow: visible;
+  position: absolute;
+  width: 10.991px;
+  height: 6.284px;
+  left: 223.062px;
+  top: 16.467px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Sort_Class {
+  left: 1415px;
+  top: 92px;
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(53, 78, 87, 1);
+  letter-spacing: 0.5px;
+}
+.mediaViewInfo {
+  --web-view-name: confidant_signin;
+  --web-view-id: confidant_signin;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: confidant_signin;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.confidant_signin_Class {
+  position: relative;
+  width: 1900px;
+  height: 1080px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: confidant_signin;
+  --web-view-id: confidant_signin;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+.Group_3225_Class {
+  position: relative;
+  width: 579px;
+  height: 529px;
+  left: 661px;
+  top: 276px;
+  overflow: visible;
+}
+.Sign_in_CTA_Class {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 99px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  color: rgba(22, 22, 22, 1);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.Rectangle_812_Class {
+  fill: rgba(250, 250, 250, 1);
+}
+.Rectangle_812 {
+  position: absolute;
+  overflow: visible;
+  width: 579px;
+  height: 469px;
+  left: 0px;
+  top: 60px;
+}
+.Login_CTA_Class {
+  left: 49.5px;
+  top: 122px;
+  position: absolute;
+  overflow: visible;
+  width: 468px;
+  height: 43px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(53, 78, 87, 1);
+  text-transform: uppercase;
+}
+.Component_9__9_Class {
+  position: absolute;
+  width: 348px;
+  height: 47px;
+  left: 109.5px;
+  top: 335px;
+  overflow: visible;
+}
+.Rectangle_738_Class {
+  fill: rgba(53, 78, 87, 1);
+}
+.Rectangle_738 {
+  position: absolute;
+  overflow: visible;
+  width: 348px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+.Continue_Class {
+  left: 72px;
+  top: 15px;
+  position: absolute;
+  overflow: visible;
+  width: 181px;
+  height: 17px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+}
+.Component_9__10_Class {
+  position: absolute;
+  width: 348px;
+  height: 47px;
+  left: 109.5px;
+  top: 195px;
+  overflow: visible;
+}
+.Rectangle_738_v_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(186, 202, 209, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_738_v {
+  position: absolute;
+  overflow: visible;
+  width: 348px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+.Email_Address_Class {
+  left: 23px;
+  top: 15px;
+  position: absolute;
+  overflow: visible;
+  width: 181px;
+  height: 20px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+}
+.Component_9__11_Class {
+  position: absolute;
+  width: 348px;
+  height: 47px;
+  left: 109.5px;
+  top: 252px;
+  overflow: visible;
+}
+.Rectangle_738_y_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(186, 202, 209, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_738_y {
+  position: absolute;
+  overflow: visible;
+  width: 348px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+.Password_Class {
+  left: 23px;
+  top: 15px;
+  position: absolute;
+  overflow: visible;
+  width: 181px;
+  height: 20px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+}
+.Icon_awesome-eye_Class {
+  fill: rgba(53, 78, 87, 1);
+}
+.Icon_awesome-eye {
+  overflow: visible;
+  position: absolute;
+  width: 14.489px;
+  height: 9.659px;
+  left: 320.5px;
+  top: 18.341px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Forgot_your_password_Dont_have_Class {
+  left: 110px;
+  top: 400px;
+  position: absolute;
+  overflow: visible;
+  width: 362px;
+  height: 34px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+  text-decoration: underline;
+}
+.mediaViewInfo {
+  --web-view-name: confidant_register;
+  --web-view-id: confidant_register;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: confidant_register;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.confidant_register_Class {
+  position: relative;
+  width: 1900px;
+  height: 1080px;
+  background-color: rgba(255, 255, 255, 1);
+  overflow: hidden;
+  --web-view-name: confidant_register;
+  --web-view-id: confidant_register;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-center-horizontally: true;
+  --web-enable-deep-linking: true;
+}
+.Group_3224_Class {
+  position: relative;
+  width: 579px;
+  height: 701px;
+  left: 661px;
+  top: 190px;
+  overflow: visible;
+}
+.Register_Class {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 126px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  color: rgba(22, 22, 22, 1);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.Rectangle_813_Class {
+  fill: rgba(250, 250, 250, 1);
+}
+.Rectangle_813 {
+  position: absolute;
+  overflow: visible;
+  width: 579px;
+  height: 641px;
+  left: 0px;
+  top: 60px;
+}
+.Register_2_Class {
+  left: 45.5px;
+  top: 151px;
+  position: absolute;
+  overflow: visible;
+  width: 468px;
+  height: 43px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgba(53, 78, 87, 1);
+  text-transform: uppercase;
+}
+.Already_have_an_account_Sign_i_Class {
+  left: 106px;
+  top: 582px;
+  position: absolute;
+  overflow: visible;
+  width: 362px;
+  height: 17px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+}
+.Component_9__4_Class {
+  position: absolute;
+  width: 348px;
+  height: 47px;
+  left: 105.5px;
+  top: 525px;
+  overflow: visible;
+}
+.Rectangle_738_Class {
+  fill: rgba(53, 78, 87, 1);
+}
+.Rectangle_738 {
+  position: absolute;
+  overflow: visible;
+  width: 348px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+.Create_Account_Class {
+  left: 84px;
+  top: 15px;
+  position: absolute;
+  overflow: visible;
+  width: 181px;
+  height: 17px;
+  text-align: center;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 1);
+}
+.Component_9__5_Class {
+  position: absolute;
+  width: 348px;
+  height: 47px;
+  left: 105.5px;
+  top: 224px;
+  overflow: visible;
+}
+.Rectangle_738_w_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(186, 202, 209, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_738_w {
+  position: absolute;
+  overflow: visible;
+  width: 348px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+.First_Name_Class {
+  left: 23px;
+  top: 15px;
+  position: absolute;
+  overflow: visible;
+  width: 181px;
+  height: 20px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+}
+.Component_9__6_Class {
+  position: absolute;
+  width: 348px;
+  height: 47px;
+  left: 105.5px;
+  top: 338px;
+  overflow: visible;
+}
+.Rectangle_738_z_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(186, 202, 209, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_738_z {
+  position: absolute;
+  overflow: visible;
+  width: 348px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+.Email_Class {
+  left: 23px;
+  top: 15px;
+  position: absolute;
+  overflow: visible;
+  width: 181px;
+  height: 20px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+}
+.Component_9__7_Class {
+  position: absolute;
+  width: 348px;
+  height: 47px;
+  left: 105.5px;
+  top: 281px;
+  overflow: visible;
+}
+.Rectangle_738__Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(186, 202, 209, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_738_ {
+  position: absolute;
+  overflow: visible;
+  width: 348px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+.Last_Name_Class {
+  left: 23px;
+  top: 15px;
+  position: absolute;
+  overflow: visible;
+  width: 181px;
+  height: 20px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+}
+.Component_9__8_Class {
+  position: absolute;
+  width: 348px;
+  height: 47px;
+  left: 105.5px;
+  top: 395px;
+  overflow: visible;
+}
+.Rectangle_738_ba_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(186, 202, 209, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_738_ba {
+  position: absolute;
+  overflow: visible;
+  width: 348px;
+  height: 47px;
+  left: 0px;
+  top: 0px;
+}
+.Password_Class {
+  left: 23px;
+  top: 15px;
+  position: absolute;
+  overflow: visible;
+  width: 181px;
+  height: 20px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+}
+.Icon_awesome-eye_Class {
+  fill: rgba(53, 78, 87, 1);
+}
+.Icon_awesome-eye {
+  overflow: visible;
+  position: absolute;
+  width: 14.489px;
+  height: 9.659px;
+  left: 320.5px;
+  top: 20.341px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Group_3223_Class {
+  position: absolute;
+  width: 358px;
+  height: 17px;
+  left: 106px;
+  top: 463px;
+  overflow: visible;
+}
+.Receive_email_updates_and_spec_Class {
+  left: 27px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 332px;
+  height: 17px;
+  text-align: left;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(53, 78, 87, 1);
+}
+.Rectangle_742_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(186, 202, 209, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_742 {
+  position: absolute;
+  overflow: visible;
+  width: 17px;
+  height: 17px;
+  left: 0px;
+  top: 0px;
+}
