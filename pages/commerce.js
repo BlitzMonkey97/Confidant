@@ -26,6 +26,7 @@ export default function Commerce({commerceMentors}) {
                 <span>{mentor.Topic}</span>
               </div>
       </div>)})}
+      <img class="Mask_Group_35_Class" src="Mask_Group_35.png" srcset="Mask_Group_35.png 1x, Mask_Group_35@2x.png 2x"/>
       <div className="Category_Commerce_Class">
         <span>Category: </span>
         <span style={{ fontStyle: "normal", fontWeight: "bold" }}>

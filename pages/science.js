@@ -27,6 +27,7 @@ export default function Science({scienceMentors}) {
           </div>
         </div>
         );})}
+        <img class="Mask_Group_36_Class" src="Mask_Group_36.png" srcset="Mask_Group_36.png 1x, Mask_Group_36@2x.png 2x"/>
         <div className="Category_Science_Class">
           <span>Category: </span>
           <span style={{ fontStyle: "normal", fontWeight: "bold" }}>Science</span>
