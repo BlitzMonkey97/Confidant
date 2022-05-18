@@ -11,9 +11,9 @@ export default function Home() {
           y1="0"
           y2="1"
         >
-          <stop offset="0" stop-color="#fff" stop-opacity="1"></stop>
-          <stop offset="0.3305" stop-color="#bcc7c2" stop-opacity="1"></stop>
-          <stop offset="1" stop-color="#345746" stop-opacity="1"></stop>
+          <stop offset="0" stopColor="#fff" stopOpacity="1"></stop>
+          <stop offset="0.3305" stopColor="#bcc7c2" stopOpacity="1"></stop>
+          <stop offset="1" stopColor="#345746" stopOpacity="1"></stop>
         </linearGradient>
         <path
           className="Gradient_k_Class"
@@ -23,12 +23,12 @@ export default function Home() {
       <img
         className="Landing_cover_page_2_Class"
         src="Landing_cover_page_2.png"
-        srcset="Landing_cover_page_2.png 1x, Landing_cover_page_2@2x.png 2x"
+        srcSet="Landing_cover_page_2.png 1x, Landing_cover_page_2@2x.png 2x"
       />
       <img
         className="Landing_cover_page__Class"
         src="Landing_cover_page_.png"
-        srcset="Landing_cover_page_.png 1x, Landing_cover_page_@2x.png 2x"
+        srcSet="Landing_cover_page_.png 1x, Landing_cover_page_@2x.png 2x"
       />
       <div className="Header_Discount_Class">
         <svg className="Rectangle_796">
@@ -209,7 +209,7 @@ export default function Home() {
         <img
           className="Rectangle_178_Class"
           src="Rectangle_178.png"
-          srcset="Rectangle_178.png 1x, Rectangle_178@2x.png 2x"
+          srcSet="Rectangle_178.png 1x, Rectangle_178@2x.png 2x"
         />
 
         <div className="Anna_Staten_bm_Class">
@@ -242,7 +242,7 @@ export default function Home() {
         <img
           className="Rectangle_178_bt_Class"
           src="Rectangle_178_bt.png"
-          srcset="Rectangle_178_bt.png 1x, Rectangle_178_bt@2x.png 2x"
+          srcSet="Rectangle_178_bt.png 1x, Rectangle_178_bt@2x.png 2x"
         />
 
         <div className="Vitili_Hanson_bu_Class">
@@ -291,7 +291,7 @@ export default function Home() {
         <img
           className="annie-spratt-GJJo0gb7bfY-unspl_Class"
           src="annie-spratt-GJJo0gb7bfY-unspl.png"
-          srcset="annie-spratt-GJJo0gb7bfY-unspl.png 1x, annie-spratt-GJJo0gb7bfY-unspl@2x.png 2x"
+          srcSet="annie-spratt-GJJo0gb7bfY-unspl.png 1x, annie-spratt-GJJo0gb7bfY-unspl@2x.png 2x"
         />
 
         <div className="Ezcema_Davie_b_Class">
@@ -324,7 +324,7 @@ export default function Home() {
         <img
           className="Rectangle_178_cc_Class"
           src="Rectangle_178_cc.png"
-          srcset="Rectangle_178_cc.png 1x, Rectangle_178_cc@2x.png 2x"
+          srcSet="Rectangle_178_cc.png 1x, Rectangle_178_cc@2x.png 2x"
         />
 
         <div className="Summer_Smith_cd_Class">
@@ -424,7 +424,7 @@ export default function Home() {
         <img
           className="Rectangle_807_Class"
           src="Rectangle_807.png"
-          srcset="Rectangle_807.png 1x, Rectangle_807@2x.png 2x"
+          srcSet="Rectangle_807.png 1x, Rectangle_807@2x.png 2x"
         />
       </div>
       <div className="CTA_panel_2_Class">
@@ -465,7 +465,7 @@ export default function Home() {
         <img
           className="Rectangle_808_Class"
           src="Rectangle_808.png"
-          srcset="Rectangle_808.png 1x, Rectangle_808@2x.png 2x"
+          srcSet="Rectangle_808.png 1x, Rectangle_808@2x.png 2x"
         />
 
         <div className="_CTA_2_Learn_more_Class">

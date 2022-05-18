@@ -6,7 +6,8 @@ export default function Commerce({commerceMentors}) {
       <>
       <Header/>
     <div id="confidant_commerce" className="confidant_commerce_Class">
-      {commerceMentors.map((mentor, i)=>{return(<div className="Component_57___2 Component_57__2_Class">
+      {commerceMentors.map((mentor, i)=>{return(
+      <div className="Component_57___2 Component_57__2_Class" key={i}>
         <svg className="Rectangle_805">
           <rect
             className="Rectangle_805_Class"
@@ -26,7 +27,7 @@ export default function Commerce({commerceMentors}) {
                 <span>{mentor.Topic}</span>
               </div>
       </div>)})}
-      <img class="Mask_Group_35_Class" src="Mask_Group_35.png" srcset="Mask_Group_35.png 1x, Mask_Group_35@2x.png 2x"/>
+      <img className="Mask_Group_35_Class" src="Mask_Group_35.png" srcSet="Mask_Group_35.png 1x, Mask_Group_35@2x.png 2x"/>
       <div className="Category_Commerce_Class">
         <span>Category: </span>
         <span style={{ fontStyle: "normal", fontWeight: "bold" }}>

@@ -27,7 +27,7 @@ export default function Arts({ artsMentors }) {
               </div>
             </div>
           );})}
-        <img class="Mask_Group_34_Class" src="Mask_Group_34.png" srcset="Mask_Group_34.png 1x, Mask_Group_34@2x.png 2x"/>
+        <img className="Mask_Group_34_Class" src="Mask_Group_34.png" srcSet="Mask_Group_34.png 1x, Mask_Group_34@2x.png 2x"/>
         <div className="Category_Arts_Class">
           <span>Category: </span>
           <span style={{ fontStyle: "normal", fontWeight: "bold" }}>Arts</span>
